@@ -23,8 +23,8 @@ neo |> send {:trinity, "Neo, wake up!"}
 ```
 
 ## References
-https://github.com/alco/pipespect
-https://groups.google.com/forum/#!searchin/elixir-lang-talk/infix$20operator/elixir-lang-talk/pTde-7d52QY/k4tKtvFhnqIJ
+- https://github.com/alco/pipespect
+- https://groups.google.com/forum/#!searchin/elixir-lang-talk/infix$20operator/elixir-lang-talk/pTde-7d52QY/k4tKtvFhnqIJ
 
 ## License
 This software is licensed under [the MIT license](LICENSE).
